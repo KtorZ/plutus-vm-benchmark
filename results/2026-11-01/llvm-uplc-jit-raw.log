@@ -1,0 +1,357 @@
+--- auction_1-1: process 120
+auction_1-1: compile 5464.184 ms
+auction_1-1: median 42.960 us, 113553 iterations
+--- auction_1-2: process 123
+auction_1-2: compile 15196.678 ms
+auction_1-2: median 194.100 us, 25149 iterations
+--- auction_1-3: process 126
+auction_1-3: compile 15520.283 ms
+auction_1-3: median 189.990 us, 25672 iterations
+--- auction_1-4: process 129
+auction_1-4: compile 5568.000 ms
+auction_1-4: median 56.180 us, 86814 iterations
+--- auction_2-1: process 132
+auction_2-1: compile 5491.768 ms
+auction_2-1: median 42.690 us, 114154 iterations
+--- auction_2-2: process 135
+auction_2-2: compile 16262.837 ms
+auction_2-2: median 191.030 us, 25505 iterations
+--- auction_2-3: process 138
+auction_2-3: compile 15299.108 ms
+auction_2-3: median 247.850 us, 19734 iterations
+--- auction_2-4: process 141
+auction_2-4: compile 15378.345 ms
+auction_2-4: median 190.760 us, 25571 iterations
+--- auction_2-5: process 144
+auction_2-5: compile 5137.693 ms
+auction_2-5: median 57.890 us, 83724 iterations
+--- coop-1: process 147
+coop-1: compile 1371.682 ms
+coop-1: median 61.790 us, 78460 iterations
+--- coop-2: process 150
+coop-2: compile 3815.887 ms
+coop-2: median 209.519 us, 23440 iterations
+--- coop-3: process 153
+coop-3: compile 3815.915 ms
+coop-3: median 758.248 us, 6580 iterations
+--- coop-4: process 156
+coop-4: compile 4415.973 ms
+coop-4: median 281.939 us, 17461 iterations
+--- coop-5: process 159
+coop-5: compile 4670.208 ms
+coop-5: median 114.929 us, 42554 iterations
+--- coop-6: process 162
+coop-6: compile 1664.146 ms
+coop-6: median 187.419 us, 26124 iterations
+--- coop-7: process 165
+coop-7: compile 1677.608 ms
+coop-7: median 86.460 us, 56431 iterations
+--- crowdfunding-success-1: process 168
+crowdfunding-success-1: compile 6366.986 ms
+crowdfunding-success-1: median 52.060 us, 93349 iterations
+--- crowdfunding-success-2: process 171
+crowdfunding-success-2: compile 6289.810 ms
+crowdfunding-success-2: median 53.460 us, 91472 iterations
+--- crowdfunding-success-3: process 174
+crowdfunding-success-3: compile 6324.932 ms
+crowdfunding-success-3: median 51.730 us, 93709 iterations
+--- currency-1: process 177
+currency-1: compile 6548.942 ms
+currency-1: median 67.750 us, 71997 iterations
+--- escrow-redeem_1-1: process 180
+escrow-redeem_1-1: compile 8853.179 ms
+escrow-redeem_1-1: median 92.209 us, 52807 iterations
+--- escrow-redeem_1-2: process 183
+escrow-redeem_1-2: compile 8660.344 ms
+escrow-redeem_1-2: median 90.319 us, 54028 iterations
+--- escrow-redeem_2-1: process 186
+escrow-redeem_2-1: compile 8528.117 ms
+escrow-redeem_2-1: median 112.570 us, 43139 iterations
+--- escrow-redeem_2-2: process 189
+escrow-redeem_2-2: compile 8349.779 ms
+escrow-redeem_2-2: median 112.580 us, 43296 iterations
+--- escrow-redeem_2-3: process 192
+escrow-redeem_2-3: compile 8425.083 ms
+escrow-redeem_2-3: median 111.960 us, 43536 iterations
+--- escrow-refund-1: process 195
+escrow-refund-1: compile 8427.778 ms
+escrow-refund-1: median 36.970 us, 131066 iterations
+--- future-increase-margin-1: process 198
+future-increase-margin-1: compile 6159.021 ms
+future-increase-margin-1: median 66.390 us, 73203 iterations
+--- future-increase-margin-2: process 201
+future-increase-margin-2: compile 8797.138 ms
+future-increase-margin-2: median 152.540 us, 32129 iterations
+--- future-increase-margin-3: process 204
+future-increase-margin-3: compile 8818.083 ms
+future-increase-margin-3: median 152.680 us, 31997 iterations
+--- future-increase-margin-4: process 207
+future-increase-margin-4: compile 20225.821 ms
+future-increase-margin-4: median 146.740 us, 33401 iterations
+--- future-increase-margin-5: process 210
+future-increase-margin-5: compile 19839.398 ms
+future-increase-margin-5: median 287.199 us, 17331 iterations
+--- future-pay-out-1: process 213
+future-pay-out-1: compile 6503.271 ms
+future-pay-out-1: median 65.050 us, 74870 iterations
+--- future-pay-out-2: process 216
+future-pay-out-2: compile 8854.167 ms
+future-pay-out-2: median 151.950 us, 31865 iterations
+--- future-pay-out-3: process 219
+future-pay-out-3: compile 8856.810 ms
+future-pay-out-3: median 153.789 us, 31783 iterations
+--- future-pay-out-4: process 222
+future-pay-out-4: compile 20018.312 ms
+future-pay-out-4: median 280.669 us, 17737 iterations
+--- future-settle-early-1: process 225
+future-settle-early-1: compile 6139.445 ms
+future-settle-early-1: median 64.549 us, 75377 iterations
+--- future-settle-early-2: process 228
+future-settle-early-2: compile 8406.184 ms
+future-settle-early-2: median 153.980 us, 31781 iterations
+--- future-settle-early-3: process 231
+future-settle-early-3: compile 8829.568 ms
+future-settle-early-3: median 152.040 us, 32179 iterations
+--- future-settle-early-4: process 234
+future-settle-early-4: compile 20598.845 ms
+future-settle-early-4: median 222.469 us, 22163 iterations
+--- game-sm-success_1-1: process 237
+game-sm-success_1-1: compile 15072.102 ms
+game-sm-success_1-1: median 108.840 us, 44722 iterations
+--- game-sm-success_1-2: process 240
+game-sm-success_1-2: compile 4144.353 ms
+game-sm-success_1-2: median 49.739 us, 97691 iterations
+--- game-sm-success_1-3: process 243
+game-sm-success_1-3: compile 14901.196 ms
+game-sm-success_1-3: median 190.880 us, 25557 iterations
+--- game-sm-success_1-4: process 246
+game-sm-success_1-4: compile 4469.608 ms
+game-sm-success_1-4: median 56.200 us, 86303 iterations
+--- game-sm-success_2-1: process 249
+game-sm-success_2-1: compile 15686.665 ms
+game-sm-success_2-1: median 110.530 us, 44229 iterations
+--- game-sm-success_2-2: process 252
+game-sm-success_2-2: compile 4385.649 ms
+game-sm-success_2-2: median 50.690 us, 96392 iterations
+--- game-sm-success_2-3: process 255
+game-sm-success_2-3: compile 15502.004 ms
+game-sm-success_2-3: median 189.280 us, 25910 iterations
+--- game-sm-success_2-4: process 258
+game-sm-success_2-4: compile 4490.158 ms
+game-sm-success_2-4: median 56.799 us, 85738 iterations
+--- game-sm-success_2-5: process 261
+game-sm-success_2-5: compile 15537.002 ms
+game-sm-success_2-5: median 190.049 us, 25734 iterations
+--- game-sm-success_2-6: process 264
+game-sm-success_2-6: compile 4447.661 ms
+game-sm-success_2-6: median 58.180 us, 83651 iterations
+--- guardrail-sorted-large: process 267
+guardrail-sorted-large: compile 1730.745 ms
+guardrail-sorted-large: median 238.540 us, 20835 iterations
+--- guardrail-sorted-small: process 270
+guardrail-sorted-small: compile 1712.886 ms
+guardrail-sorted-small: median 17.320 us, 280798 iterations
+--- guardrail-unsorted-large: process 273
+guardrail-unsorted-large: compile 1701.410 ms
+guardrail-unsorted-large: median 300.619 us, 16358 iterations
+--- guardrail-unsorted-small: process 276
+guardrail-unsorted-small: compile 1766.286 ms
+guardrail-unsorted-small: median 16.410 us, 292584 iterations
+--- multisig-sm-01: process 279
+multisig-sm-01: compile 17337.901 ms
+multisig-sm-01: median 115.359 us, 41982 iterations
+--- multisig-sm-02: process 282
+multisig-sm-02: compile 17359.332 ms
+multisig-sm-02: median 114.509 us, 42489 iterations
+--- multisig-sm-03: process 285
+multisig-sm-03: compile 16903.532 ms
+multisig-sm-03: median 114.270 us, 42655 iterations
+--- multisig-sm-04: process 288
+multisig-sm-04: compile 16993.704 ms
+multisig-sm-04: median 116.410 us, 41194 iterations
+--- multisig-sm-05: process 291
+multisig-sm-05: compile 17178.427 ms
+multisig-sm-05: median 167.780 us, 29244 iterations
+--- multisig-sm-06: process 294
+multisig-sm-06: compile 17374.952 ms
+multisig-sm-06: median 114.890 us, 42516 iterations
+--- multisig-sm-07: process 297
+multisig-sm-07: compile 16853.938 ms
+multisig-sm-07: median 112.699 us, 43285 iterations
+--- multisig-sm-08: process 300
+multisig-sm-08: compile 17279.608 ms
+multisig-sm-08: median 118.310 us, 41198 iterations
+--- multisig-sm-09: process 303
+multisig-sm-09: compile 17319.488 ms
+multisig-sm-09: median 108.470 us, 44754 iterations
+--- multisig-sm-10: process 306
+multisig-sm-10: compile 17442.786 ms
+multisig-sm-10: median 167.740 us, 29136 iterations
+--- ping-pong-1: process 309
+ping-pong-1: compile 14645.583 ms
+ping-pong-1: median 90.490 us, 53641 iterations
+--- ping-pong-2: process 312
+ping-pong-2: compile 14043.231 ms
+ping-pong-2: median 92.890 us, 52204 iterations
+--- ping-pong_2-1: process 315
+ping-pong_2-1: compile 14243.872 ms
+ping-pong_2-1: median 53.930 us, 90043 iterations
+--- prism-1: process 318
+prism-1: compile 3905.891 ms
+prism-1: median 39.790 us, 122766 iterations
+--- prism-2: process 321
+prism-2: compile 15046.742 ms
+prism-2: median 112.699 us, 43062 iterations
+--- prism-3: process 324
+prism-3: compile 6519.891 ms
+prism-3: median 99.300 us, 48954 iterations
+--- pubkey-1: process 327
+pubkey-1: compile 4272.005 ms
+pubkey-1: median 35.230 us, 137466 iterations
+--- stablecoin_1-1: process 330
+stablecoin_1-1: compile 23666.794 ms
+stablecoin_1-1: median 334.359 us, 14957 iterations
+--- stablecoin_1-2: process 333
+stablecoin_1-2: compile 4136.031 ms
+stablecoin_1-2: median 49.260 us, 99186 iterations
+--- stablecoin_1-3: process 336
+stablecoin_1-3: compile 23440.445 ms
+stablecoin_1-3: median 365.939 us, 13661 iterations
+--- stablecoin_1-4: process 339
+stablecoin_1-4: compile 4139.689 ms
+stablecoin_1-4: median 52.770 us, 91922 iterations
+--- stablecoin_1-5: process 342
+stablecoin_1-5: compile 23635.793 ms
+stablecoin_1-5: median 423.929 us, 11819 iterations
+--- stablecoin_1-6: process 345
+stablecoin_1-6: compile 4286.283 ms
+stablecoin_1-6: median 63.210 us, 77193 iterations
+--- stablecoin_2-1: process 348
+stablecoin_2-1: compile 24136.217 ms
+stablecoin_2-1: median 334.289 us, 15004 iterations
+--- stablecoin_2-2: process 351
+stablecoin_2-2: compile 4236.083 ms
+stablecoin_2-2: median 48.380 us, 99348 iterations
+--- stablecoin_2-3: process 354
+stablecoin_2-3: compile 24733.913 ms
+stablecoin_2-3: median 365.389 us, 13637 iterations
+--- stablecoin_2-4: process 357
+stablecoin_2-4: compile 4418.141 ms
+stablecoin_2-4: median 50.940 us, 95849 iterations
+--- token-account-1: process 360
+token-account-1: compile 6344.881 ms
+token-account-1: median 47.350 us, 102791 iterations
+--- token-account-2: process 363
+token-account-2: compile 5826.933 ms
+token-account-2: median 93.629 us, 52035 iterations
+--- uniswap-1: process 366
+uniswap-1: compile 6212.892 ms
+uniswap-1: median 121.030 us, 40233 iterations
+--- uniswap-2: process 369
+uniswap-2: compile 6130.767 ms
+uniswap-2: median 59.059 us, 82248 iterations
+--- uniswap-3: process 372
+uniswap-3: compile 16500.534 ms
+uniswap-3: median 440.069 us, 11316 iterations
+--- uniswap-4: process 375
+uniswap-4: compile 4590.383 ms
+uniswap-4: median 85.200 us, 57326 iterations
+--- uniswap-5: process 378
+uniswap-5: compile 16544.665 ms
+uniswap-5: median 298.949 us, 16715 iterations
+--- uniswap-6: process 381
+uniswap-6: compile 4593.631 ms
+uniswap-6: median 81.580 us, 59618 iterations
+--- vesting-1: process 384
+vesting-1: compile 8548.847 ms
+vesting-1: median 94.040 us, 51649 iterations
+=== check
+auction_1-1: ok cpu=185243960 mem=831092
+auction_1-2: ok cpu=628192291 mem=3455036
+auction_1-3: ok cpu=634004628 mem=3463550
+auction_1-4: ok cpu=239873979 mem=1053348
+auction_2-1: ok cpu=185243960 mem=831092
+auction_2-2: ok cpu=628192291 mem=3455036
+auction_2-3: ok cpu=829358119 mem=4603050
+auction_2-4: ok cpu=634004628 mem=3463550
+auction_2-5: ok cpu=239873979 mem=1053348
+coop-1: ok cpu=261690778 mem=1002314
+coop-2: ok cpu=771378523 mem=3075549
+coop-3: ok cpu=2146553523 mem=11725239
+coop-4: ok cpu=896329242 mem=3989698
+coop-5: ok cpu=415168389 mem=1716514
+coop-6: ok cpu=731324990 mem=2859657
+coop-7: ok cpu=368455190 mem=1382935
+crowdfunding-success-1: ok cpu=215172293 mem=959418
+crowdfunding-success-2: ok cpu=215172293 mem=959418
+crowdfunding-success-3: ok cpu=215172293 mem=959418
+currency-1: ok cpu=260867407 mem=1365668
+escrow-redeem_1-1: ok cpu=354980023 mem=1791342
+escrow-redeem_1-2: ok cpu=354980023 mem=1791342
+escrow-redeem_2-1: ok cpu=414701543 mem=2106710
+escrow-redeem_2-2: ok cpu=414701543 mem=2106710
+escrow-redeem_2-3: ok cpu=414701543 mem=2106710
+escrow-refund-1: ok cpu=158714514 mem=719208
+future-increase-margin-1: ok cpu=260892271 mem=1365668
+future-increase-margin-2: ok cpu=550162284 mem=2880706
+future-increase-margin-3: ok cpu=550162284 mem=2880706
+future-increase-margin-4: ok cpu=476262153 mem=2541290
+future-increase-margin-5: ok cpu=801539739 mem=4102467
+future-pay-out-1: ok cpu=260892271 mem=1365668
+future-pay-out-2: ok cpu=550162284 mem=2880706
+future-pay-out-3: ok cpu=550162284 mem=2880706
+future-pay-out-4: ok cpu=800034975 mem=4094663
+future-settle-early-1: ok cpu=260892271 mem=1365668
+future-settle-early-2: ok cpu=550162284 mem=2880706
+future-settle-early-3: ok cpu=550162284 mem=2880706
+future-settle-early-4: ok cpu=598224552 mem=2916171
+game-sm-success_1-1: ok cpu=378390466 mem=1931718
+game-sm-success_1-2: ok cpu=208348058 mem=918246
+game-sm-success_1-3: ok cpu=633795192 mem=3426302
+game-sm-success_1-4: ok cpu=242120569 mem=1065558
+game-sm-success_2-1: ok cpu=378390466 mem=1931718
+game-sm-success_2-2: ok cpu=208348058 mem=918246
+game-sm-success_2-3: ok cpu=633795192 mem=3426302
+game-sm-success_2-4: ok cpu=242120569 mem=1065558
+game-sm-success_2-5: ok cpu=633817780 mem=3426302
+game-sm-success_2-6: ok cpu=242120569 mem=1065558
+guardrail-sorted-large: ok cpu=400248968 mem=2047130
+guardrail-sorted-small: ok cpu=60413664 mem=277418
+guardrail-unsorted-large: ok cpu=562613823 mem=2920065
+guardrail-unsorted-small: ok cpu=58731921 mem=268019
+multisig-sm-01: ok cpu=385936325 mem=2022360
+multisig-sm-02: ok cpu=374468532 mem=1947414
+multisig-sm-03: ok cpu=378665957 mem=1969308
+multisig-sm-04: ok cpu=382863382 mem=1991202
+multisig-sm-05: ok cpu=545327785 mem=2965986
+multisig-sm-06: ok cpu=385936325 mem=2022360
+multisig-sm-07: ok cpu=374468532 mem=1947414
+multisig-sm-08: ok cpu=378665957 mem=1969308
+multisig-sm-09: ok cpu=382863382 mem=1991202
+multisig-sm-10: ok cpu=545327785 mem=2965986
+ping-pong-1: ok cpu=324464526 mem=1680090
+ping-pong-2: ok cpu=324464526 mem=1680090
+ping-pong_2-1: ok cpu=201666086 mem=981952
+prism-1: ok cpu=174276007 mem=764974
+prism-2: ok cpu=407908488 mem=2066140
+prism-3: ok cpu=379936672 mem=1910858
+pubkey-1: ok cpu=148251224 mem=648826
+stablecoin_1-1: ok cpu=827551021 mem=3706110
+stablecoin_1-2: ok cpu=203638059 mem=897094
+stablecoin_1-3: ok cpu=951554273 mem=4342742
+stablecoin_1-4: ok cpu=216086468 mem=951808
+stablecoin_1-5: ok cpu=1206898458 mem=5587098
+stablecoin_1-6: ok cpu=266443981 mem=1173858
+stablecoin_2-1: ok cpu=827551021 mem=3706110
+stablecoin_2-2: ok cpu=203638059 mem=897094
+stablecoin_2-3: ok cpu=951554273 mem=4342742
+stablecoin_2-4: ok cpu=216086468 mem=951808
+token-account-1: ok cpu=195373694 mem=978444
+token-account-2: ok cpu=355866023 mem=1826496
+uniswap-1: ok cpu=443304976 mem=2449452
+uniswap-2: ok cpu=230772794 mem=1126608
+uniswap-3: ok cpu=1650842606 mem=8675126
+uniswap-4: ok cpu=347527720 mem=1535808
+uniswap-5: ok cpu=1083644672 mem=5520347
+uniswap-6: ok cpu=332999979 mem=1488850
+vesting-1: ok cpu=351952372 mem=1861958
